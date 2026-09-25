@@ -25,7 +25,7 @@
     "devDependencies": {
         "@types/node": "^12.19.9",
         "clean-webpack-plugin": "^3.0.0",
-        "copy-webpack-plugin": "^7.0.0",
+        "copy-webpack-plugin": "^14.0.0",
         "shx": "^0.3.3",
         "ts-loader": "^8.0.12",
         "tsconfig-paths-webpack-plugin": "^3.3.0",
